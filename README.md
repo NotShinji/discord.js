@@ -1,2 +1,2 @@
 # discord.js
- Discord.js V11 pached 
+ Discord.js V11 patched 
